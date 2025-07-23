@@ -2063,6 +2063,7 @@ var cnames_active = {
   "naja": "naja-js.github.io/naja",
   "namaste": "namaste-duniya.github.io/js",
   "namelessman": "namelessman.github.io",
+  "nasza4": "Dertelox.github.io/nasza4",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "nano": "planet-free.github.io/nano",
   "nano-queries": "vitonsky.github.io/nano-queries",
@@ -3578,8 +3579,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "nasza4": "Dertelox.github.io/nasza4"
+  "zyy": "zyyou.github.io/notes"
 
   /*
    * please don't add your subdomain records down here!
